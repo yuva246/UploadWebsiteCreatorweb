@@ -1,6 +1,5 @@
  body { 
  background: #525252;
- cursor: url(web.png), pointer;
  justify-content: center;
  align-items: center;
  display: flex;
@@ -11,4 +10,7 @@
  padding: 15px 42px;
  text-decoration: none;
  color: #fff;
+}
+ #load{
+  cursor: url(web.png), pointer;
 }

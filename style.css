@@ -1,6 +1,6 @@
  body { 
  background: #525252;
- //cursor: url(web.png), pointer;
+ cursor: url(web.png), pointer;
  justify-content: center;
  align-items: center;
  display: flex;

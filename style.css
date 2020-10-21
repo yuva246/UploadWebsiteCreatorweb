@@ -11,6 +11,6 @@
  text-decoration: none;
  color: #fff;
 }
- #load{
+ #load:hover{
   cursor: url(web.png), pointer;
 }

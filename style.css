@@ -4,13 +4,11 @@
  align-items: center;
  display: flex;
  min-height: 100vh;
+ cursor: url(web.png), pointer;
 }
  #load{
  background: #262626;
  padding: 15px 42px;
  text-decoration: none;
  color: #fff;
-}
- #load:hover{
-  cursor: url(web.png), pointer;
 }
